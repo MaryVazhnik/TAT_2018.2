@@ -1,6 +1,6 @@
 ﻿using System;
 using NUnit.Framework;
-using Assert = Microsoft.VisualStudio.TestTools.UnitTesting.Assert;
+using NUnit.Framework.Throws;
 
 namespace DEV_3.Tests
 {
